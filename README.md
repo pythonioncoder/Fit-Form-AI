@@ -7,5 +7,8 @@ Fit Form AI is an AI-powered posture correction feedback app for exercise, yoga,
 >[!NOTE]
 >Fit Form AI is currently in active development. iOS and Android app not implemented yet. Check below for the latest updates.
 
+## Installation
+
+
 ## Usage
 Simply open the .ipynb in Google Colab and run!
