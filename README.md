@@ -9,8 +9,17 @@ You might've seen videos online of bodybuilders tearing a muscle in the middle o
 
 
 
+
 ![image](https://github.com/pythonioncoder/Fit-Form-AI/assets/70725762/54e844c3-cea1-4497-b51e-6406b651f8a8)
-*Output from MediaPipe*
+*Example Output from MediaPipe*
+
+
+>Left Arm Isn't Visible
+>Try Bending Your Elbow More
+>Left Side of Body Isn't Visible
+>Try Flattening Your Feet More
+>Good Form
+*Example Program Feedback*
 
 >[!NOTE]
 >Fit Form AI is currently in active development. iOS and Android apps are not implemented yet. Check below for the latest updates.
@@ -18,5 +27,5 @@ You might've seen videos online of bodybuilders tearing a muscle in the middle o
 ## Installation
 Create a copy of the Fit Form AI Resources folder in your Google Drive. Link can be found in the repo or here: https://drive.google.com/drive/folders/1RFTh9ed50zVZaIyutPCo6-VTEQanqE4_?usp=drive_link.
 
-## Usage
+### Usage
 Simply open the .ipynb in Google Colab and run!
