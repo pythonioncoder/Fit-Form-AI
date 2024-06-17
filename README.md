@@ -7,8 +7,10 @@ Fit Form AI is an AI-powered posture correction feedback app for exercise, yoga,
 ## Overview
 You might've seen videos online of bodybuilders tearing a muscle in the middle of a workout. These injuries are painful to watch but have a surprisingly simple solution: better form. When bodybuilders have a low range of motion, their muscle only gets stronger in that range, leading to tears when it's pushed outside of that limited range. Fit Form AI aims to combat this by detecting key body parts and providing feedback to the user so they never develop chronically bad form. Through this process, it's also able to fix any posture problem, whether it be exercise, yoga, or simply good sitting posture. The Jupyter Notebook takes a live video feed from the user's camera, giving each frame to a pose landmark detection model from Google AI Edge's MediaPipe Solutions. The model returns the XYZ coordinates of major joints, which are cross-checked with the relevant CSV file for the exercise chosen. If any joint angle is outside the allowable range specified in the CSV file, the program will print out the appropriate feedback so the user can adjust their form. Because of the flexibility of the CSV files, literally any use case involving joint angles is allowed.
 
+
+
 ![image](https://github.com/pythonioncoder/Fit-Form-AI/assets/70725762/54e844c3-cea1-4497-b51e-6406b651f8a8)
-Example Output from MediaPipe
+*Output from MediaPipe*
 
 >[!NOTE]
 >Fit Form AI is currently in active development. iOS and Android apps are not implemented yet. Check below for the latest updates.
