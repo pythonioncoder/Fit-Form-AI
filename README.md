@@ -15,10 +15,15 @@ You might've seen videos online of bodybuilders tearing a muscle in the middle o
 
 
 >Left Arm Isn't Visible
+
 >Try Bending Your Elbow More
+
 >Left Side of Body Isn't Visible
+
 >Try Flattening Your Feet More
+
 >Good Form
+
 *Example Program Feedback*
 
 >[!NOTE]
