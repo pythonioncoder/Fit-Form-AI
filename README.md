@@ -13,13 +13,14 @@ You might've seen videos online of bodybuilders tearing a muscle in the middle o
 ![image](https://github.com/pythonioncoder/Fit-Form-AI/assets/70725762/54e844c3-cea1-4497-b51e-6406b651f8a8)
 *Example Output from MediaPipe*
 
-'''
+```
 Left Arm Isn't Visible
 Try Bending Your Elbow More
 Left Side of Body Isn't Visible
 Try Flattening Your Feet More
 Good Form
-'''
+```
+
 *Example Program Feedback*
 
 >[!NOTE]
