@@ -11,9 +11,6 @@ You might've seen videos online of bodybuilders tearing a muscle in the middle o
 
 ![Demo Video](https://github.com/pythonioncoder/Fit-Form-AI/blob/7c24619d6f0f889c9865ce3137492d6c27a7b812/Fit%20Form%20AI%20Demo.gif)
 
-*Example Output*
-
-
 >[!NOTE]
 >Fit Form AI is currently in active development. iOS and Android apps are not implemented yet. Check below for the latest updates.
 
